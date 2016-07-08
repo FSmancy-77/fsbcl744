@@ -20,7 +20,11 @@
         </div>
         <ul>
           <li class="col-title">Stay in Touch</li>
+<<<<<<< HEAD
           <li><a href="mailto:essentials@thebriefcase.co" target="_blank">Contact Us</a></li>
+=======
+          <li><a href="mailto:essentials@thebriefcase.co" target="_blank">Contact Us</a></li>
+>>>>>>> 8c6702d17246eef6d759169356d1347e40e8ce9d
           <ul class="social">
             <li><a href="#" target="_new"><i class="fa fa-twitter"></i></a></li>
             <li><a href="#"><i class="fa fa-facebook" target="_new"></i></a></li>
